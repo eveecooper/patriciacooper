@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evelyn Cooper!
+👋 Hi, I’m Evelyn Cooper!
 
 
 - 👀 I’m interested in developing skills in cybersecurity and Python.
