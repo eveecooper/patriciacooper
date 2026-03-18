@@ -8,5 +8,4 @@
 
 Gonzaga University
 B.S. Mechancial Engineering
-Class of 2020
 
